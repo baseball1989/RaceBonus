@@ -1,7 +1,6 @@
 .DS_Store
 node_modules
 /dist
-rbonus/src/helpers/s.js
 
 # local env files
 .env.local
