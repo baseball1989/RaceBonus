@@ -1,0 +1,2518 @@
+[
+    {
+        "index": 0,
+        "name": "サイレンススズカ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 1,
+        "name": "トウカイテイオー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 2,
+        "name": "ゴールドシチー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 3,
+        "name": "サクラバクシンオー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 4,
+        "name": "ニシノフラワー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 5,
+        "name": "ビコーペガサス",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 6,
+        "name": "スペシャルウィーク",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 8,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 7,
+        "name": "ツインターボ",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 8,
+        "name": "キタサンブラック",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 9,
+        "name": "カワカミプリンセス",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 10,
+        "name": "ナリタブライアン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 11,
+        "name": "スイープトウショウ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 12,
+        "name": "マヤノトップガン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 13,
+        "name": "サイレンススズカ",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 14,
+        "name": "マチカネフクキタル",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 15,
+        "name": "トーセンジョーダン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 16,
+        "name": "ナリタトップロード",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 17,
+        "name": "エアシャカール",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 0,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 18,
+        "name": "エイシンフラッシュ",
+        "isUniq": true,
+        "R": "SR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 19,
+        "name": "ナリタタイシン",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 20,
+        "name": "スイープトウショウ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 21,
+        "name": "シンコウウインディ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 22,
+        "name": "ウオッカ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 0,
+            "lv35": 1,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 23,
+        "name": "カレンチャン",
+        "isUniq": true,
+        "R": "SR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 24,
+        "name": "サイレンススズカ",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 25,
+        "name": "マルゼンスキー",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 26,
+        "name": "サクラバクシンオー",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 27,
+        "name": "ナリタタイシン",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 28,
+        "name": "ニシノフラワー",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 29,
+        "name": "ビコーペガサス",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 30,
+        "name": "スイープトウショウ",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 31,
+        "name": "キタサンブラック",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 32,
+        "name": "カワカミプリンセス",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 33,
+        "name": "シンコウウインディ",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 34,
+        "name": "ナリタブライアン",
+        "isUniq": false,
+        "R": "R",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 35,
+        "name": "セイウンスカイ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 36,
+        "name": "タマモクロス",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 37,
+        "name": "スーパークリーク",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 38,
+        "name": "メジロマックイーン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 39,
+        "name": "ライスシャワー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 1,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 40,
+        "name": "サトノダイヤモンド",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 41,
+        "name": "サクラチヨノオー",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 10,
+            "lv50": 15
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 42,
+        "name": "ミホノブルボン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 43,
+        "name": "ウイニングチケット",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 44,
+        "name": "サイレンススズカ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 45,
+        "name": "ナリタブライアン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 46,
+        "name": "マンハッタンカフェ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 47,
+        "name": "メジロブライト",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 48,
+        "name": "シンボリルドルフ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 49,
+        "name": "マヤノトップガン",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 50,
+        "name": "マンハッタンカフェ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 51,
+        "name": "トーセンジョーダン",
+        "isUniq": true,
+        "R": "SR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 52,
+        "name": "メジロライアン",
+        "isUniq": false,
+        "R": "SR",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 53,
+        "name": "メジロマックイーン",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 54,
+        "name": "セイウンスカイ",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 55,
+        "name": "スーパークリーク",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 56,
+        "name": "タマモクロス",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 57,
+        "name": "マヤノトップガン",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 58,
+        "name": "マンハッタンカフェ",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 59,
+        "name": "サトノダイヤモンド",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 60,
+        "name": "メジロブライト",
+        "isUniq": false,
+        "R": "R",
+        "type": "スタミナ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 61,
+        "name": "ウオッカ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 62,
+        "name": "エルコンドルパサー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 63,
+        "name": "スマートファルコン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 64,
+        "name": "ヤエノムテキ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 65,
+        "name": "バンブーメモリー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 66,
+        "name": "ライスシャワー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 67,
+        "name": "タマモクロス",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 68,
+        "name": "ダイタクヘリオス",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 69,
+        "name": "マーベラスサンデー",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 12,
+            "lv45": 13,
+            "lv50": 15
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 70,
+        "name": "アドマイヤベガ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 71,
+        "name": "アグネスデジタル",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 72,
+        "name": "ヒシアマゾン",
+        "isUniq": true,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 10,
+            "lv35": 10,
+            "lv40": 10,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 73,
+        "name": "アグネスデジタル",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 74,
+        "name": "ビワハヤヒデ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 75,
+        "name": "ミホノブルボン",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 76,
+        "name": "メジロライアン",
+        "isUniq": true,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 8,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 77,
+        "name": "ダイタクヘリオス",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 78,
+        "name": "ニシノフラワー",
+        "isUniq": true,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 10,
+            "lv35": 11,
+            "lv40": 12,
+            "lv45": 13,
+            "lv50": 15
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 79,
+        "name": "ファインモーション",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 80,
+        "name": "スペシャルウィーク",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 4,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 81,
+        "name": "サクラバクシンオー",
+        "isUniq": false,
+        "R": "SR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 82,
+        "name": "ウオッカ",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 83,
+        "name": "エルコンドルパサー",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 84,
+        "name": "ヒシアマゾン",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 85,
+        "name": "アグネスデジタル",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 86,
+        "name": "ビワハヤヒデ",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 87,
+        "name": "ミホノブルボン",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 88,
+        "name": "ダイタクヘリオス",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 89,
+        "name": "バンブーメモリー",
+        "isUniq": false,
+        "R": "R",
+        "type": "パワー",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 90,
+        "name": "グラスワンダー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 91,
+        "name": "アイネスフウジン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 92,
+        "name": "ウイニングチケット",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 93,
+        "name": "ハルウララ",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 8,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 94,
+        "name": "メジロパーマー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 95,
+        "name": "マチカネタンホイザ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 96,
+        "name": "メジロライアン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 97,
+        "name": "ツインターボ",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 98,
+        "name": "イクノディクタス",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 10,
+            "lv35": 11,
+            "lv40": 12,
+            "lv45": 13,
+            "lv50": 15
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 99,
+        "name": "ユキノビジン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 100,
+        "name": "サクラバクシンオー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 101,
+        "name": "マーベラスサンデー",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 102,
+        "name": "エアグルーヴ",
+        "isUniq": true,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 10,
+            "lv35": 10,
+            "lv40": 10,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 103,
+        "name": "メイショウドトウ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 104,
+        "name": "ナイスネイチャ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 0,
+            "lv35": 1,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 105,
+        "name": "シーキングザパール",
+        "isUniq": false,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 106,
+        "name": "シリウスシンボリ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 107,
+        "name": "アドマイヤベガ",
+        "isUniq": true,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 10,
+            "lv35": 11,
+            "lv40": 12,
+            "lv45": 13,
+            "lv50": 15
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 108,
+        "name": "スマートファルコン",
+        "isUniq": false,
+        "R": "SR",
+        "type": "根性",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 0,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 109,
+        "name": "グラスワンダー",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 110,
+        "name": "ウイニングチケット",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 111,
+        "name": "ハルウララ",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 112,
+        "name": "エアグルーヴ",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 113,
+        "name": "アイネスフウジン",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 114,
+        "name": "メイショウドトウ",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 115,
+        "name": "メジロパーマー",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 116,
+        "name": "マチカネタンホイザ",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 117,
+        "name": "シーキングザパール",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 0,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 118,
+        "name": "シリウスシンボリ",
+        "isUniq": false,
+        "R": "R",
+        "type": "根性",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 0,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 119,
+        "name": "ファインモーション",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 120,
+        "name": "ユキノビジン",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 121,
+        "name": "メジロドーベル",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 8,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 122,
+        "name": "ビワハヤヒデ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 123,
+        "name": "ナイスネイチャ",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 10,
+            "lv50": 15
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 124,
+        "name": "ミホノブルボン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 125,
+        "name": "カレンチャン",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 6,
+            "lv35": 7,
+            "lv40": 8,
+            "lv45": 10,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 126,
+        "name": "ナリタタイシン",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 127,
+        "name": "サトノダイヤモンド",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 128,
+        "name": "シリウスシンボリ",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 0,
+            "lv45": 5,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 129,
+        "name": "フジキセキ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 0,
+            "lv35": 1,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 130,
+        "name": "ダイワスカーレット",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 131,
+        "name": "アグネスタキオン",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 132,
+        "name": "マーベラスサンデー",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 133,
+        "name": "メジロドーベル",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 134,
+        "name": "イクノディクタス",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 135,
+        "name": "ナイスネイチャ",
+        "isUniq": false,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 136,
+        "name": "アイネスフウジン",
+        "isUniq": true,
+        "R": "SR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 137,
+        "name": "シンボリルドルフ",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 138,
+        "name": "ダイワスカーレット",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 139,
+        "name": "ファインモーション",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 140,
+        "name": "アグネスタキオン",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 141,
+        "name": "マーベラスサンデー",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 142,
+        "name": "メジロドーベル",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 143,
+        "name": "イクノディクタス",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 144,
+        "name": "カレンチャン",
+        "isUniq": false,
+        "R": "R",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 145,
+        "name": "樫本理子",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "友人",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 146,
+        "name": "樫本理子",
+        "isUniq": false,
+        "R": "R",
+        "type": "友人",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 147,
+        "name": "チーム＜シリウス＞",
+        "isUniq": false,
+        "R": "SSR",
+        "type": "グループ",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 4,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    }
+]
