@@ -298,7 +298,24 @@
             "lv30": 1,
             "lv35": 2,
             "lv40": 3,
-            "lv45": 0,
+            "lv45": 4,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 17.1,
+        "name": "シーキングザパール",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "スピード",
+        "levels": {
+            "lv30": 1,
+            "lv35": 2,
+            "lv40": 3,
+            "lv45": 4,
             "lv50": 5
         },
         "level": null,
@@ -1224,6 +1241,40 @@
         "isR": ""
     },
     {
+        "index": 71.1,
+        "name": "ダイワスカーレット",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 71.2,
+        "name": "カワカミプリンセス",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "パワー",
+        "levels": {
+            "lv30": 0,
+            "lv35": 0,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
         "index": 72,
         "name": "ヒシアマゾン",
         "isUniq": true,
@@ -1734,6 +1785,23 @@
         "isR": ""
     },
     {
+        "index": 101.1,
+        "name": "バンブーメモリー",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "根性",
+        "levels": {
+            "lv30": 5,
+            "lv35": 6,
+            "lv40": 7,
+            "lv45": 8,
+            "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
         "index": 102,
         "name": "エアグルーヴ",
         "isUniq": true,
@@ -2187,6 +2255,23 @@
             "lv40": 0,
             "lv45": 5,
             "lv50": 10
+        },
+        "level": null,
+        "isType": "",
+        "isR": ""
+    },
+    {
+        "index": 128.1,
+        "name": "ミスターシービー",
+        "isUniq": true,
+        "R": "SSR",
+        "type": "賢さ",
+        "levels": {
+            "lv30": 5,
+            "lv35": 5,
+            "lv40": 5,
+            "lv45": 5,
+            "lv50": 5
         },
         "level": null,
         "isType": "",
