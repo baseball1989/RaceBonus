@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @baseball1989
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# RaceBonus
 
-<!---
-baseball1989/baseball1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ウマ娘のレースボーナス計算機 
+ 
+# DEMO
+
+ 
+# Installation
+ 
+```
+yarn install
+```
+ 
+# Usage
+ 
+```
+git clone https://github.com/baseball1989/RaceBonus.git
+cd rbonus
+yarn install
+```
+ 
+# Note
+ 
+- レースボーナス計算に用いられるデータは公式のものではありません
+ 
+# Author
+  
+* baseball1989
+ 
+# License
+ 
+"RaceBonus" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
