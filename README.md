@@ -2,9 +2,10 @@
 
 ウマ娘のレースボーナス計算機 
  
-# DEMO
+# URL
 
- 
+https://baseball1989.github.io/RaceBonus/
+
 # Installation
  
 ```
@@ -22,6 +23,8 @@ yarn install
 # Note
  
 - レースボーナス計算に用いられるデータは公式のものではありません
+- 内容に間違いがある場合はGitHub Issueにてご連絡ください
+- ブラウザはGoogle Chrome最新版(PC)、及びiPhone Safari最新版のみ動作確認しております。
  
 # Author
   

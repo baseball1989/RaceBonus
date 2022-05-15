@@ -56,6 +56,7 @@
     <div class="reset">
       <button @click="reset">リセット</button>
     </div>
+    <address><a href="https://github.com/baseball1989/RaceBonus">GitHub</a></address>
   </div>
 </template>
 
@@ -351,5 +352,9 @@ a {
 }
 select {
   padding: 8px;
+}
+address {
+  margin-top: 16px;
+  text-align: center;
 }
 </style>
